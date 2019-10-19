@@ -10,9 +10,9 @@ prerequisite:
 To setup and run the test follow these steps:
 
 1. clone the project
-2. create virtual environemnt install requirements using following command (MacOS):
+2. create virtual environemnt install requirements using following command inside project folder (MacOS):
   
-    cd <projectroot>
+    cd pom_poc_sample_project
     pythont3 -m virtualenv venv
     . venv/bin/activate
     pip install -r requirements.txt
