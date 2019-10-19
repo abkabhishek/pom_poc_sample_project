@@ -1,0 +1,24 @@
+[
+  {
+    "hotel_name": "Hotel Minsk",
+    "hotel_location": "Belarus",
+    "hotel_search_string": "Hotel Minsk",
+    "star_rating": "4",
+    "free_wifi_available": true,
+    "checkin_time": "14:00",
+    "checkout_time": "12:00",
+    "occupancy_required": 4,
+    "occupancy_not_required": 8
+  },
+  {
+    "hotel_name": "Hotel Boss",
+    "hotel_location": "India",
+    "hotel_search_string": "Hotel Boss",
+    "star_rating": "3",
+    "free_wifi_available": true,
+    "checkin_time": "13:59",
+    "checkout_time": "12:01",
+    "occupancy_required": 8,
+    "occupancy_not_required": 4
+  }
+]
