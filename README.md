@@ -13,12 +13,16 @@ To setup and run the test follow these steps:
 2. create virtual environemnt install requirements using following command inside project folder (MacOS):
   
     cd pom_poc_sample_project
+    
     pythont3 -m virtualenv venv
+    
     . venv/bin/activate
+    
     pip install -r requirements.txt
   
 3. Run tests
    cd AutoTest
+   
    pytest -s Tests/Test_sample.py -v
     
     
