@@ -21,6 +21,7 @@ To setup and run the test follow these steps:
     pip install -r requirements.txt
   
 3. Run tests
+
    cd AutoTest
    
    pytest -s Tests/Test_sample.py -v
